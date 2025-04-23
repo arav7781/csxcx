@@ -1,0 +1,8 @@
+{
+  "/handler/[...stack]/page": "app/handler/[...stack]/page.js",
+  "/page": "app/page.js",
+  "/(main)/chatbot/page": "app/(main)/chatbot/page.js",
+  "/(main)/dashboard/page": "app/(main)/dashboard/page.js",
+  "/(main)/pricing/page": "app/(main)/pricing/page.js",
+  "/(main)/visualisation/page": "app/(main)/visualisation/page.js"
+}
